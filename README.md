@@ -7,7 +7,7 @@ PictureSelector
 ## 密码输入  
 [**VercodeEditText**](https://github.com/JustKiddingBaby/VercodeEditText)  
 一个安卓验证码输入框控件  
-
+<img src="https://github.com/JustKiddingBaby/VercodeEditText/raw/master/img/demo.gif" height="560"/>
 
 ## 选择器  
 
