@@ -9,7 +9,7 @@ QuickPermissions
 
 ## 表单验证
 android-saripaar  
-简单，功能强大，以规则为基础的UI形式验证的Android库。[android-saripaar ]https://github.com/ragunathjawahar/android-saripaar
+简单，功能强大，以规则为基础的UI形式验证的Android库。[android-saripaar ](https://github.com/ragunathjawahar/android-saripaar)
 
 
 ## Kotiln 
