@@ -3,7 +3,7 @@ Android开发常用工具、类库整理 https://www.apkdev.io/
 ## 开源控件
 
 [**ColoredShadowImageView**](https://github.com/armcha/ColoredShadowImageView)  
-可以根据相应的区域颜色在图像周围创建一个美丽的阴影。(实现一个图片阴影)
+可以根据相应的区域颜色在图像周围创建一个美丽的阴影。(实现一个图片阴影)  
 <img src="https://github.com/armcha/ColoredShadowImageView/blob/master/screenShots/firstScreen.png" height="560"/>
 <img src="https://github.com/armcha/ColoredShadowImageView/blob/master/screenShots/firstCircle.png" height="560"/>
 
